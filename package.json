@@ -1,0 +1,31 @@
+{
+  "name": "mcp-marketplace",
+  "version": "1.0.0",
+  "description": "MCP Server Marketplace - Curated ecosystem of pre-built integrations",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "mcp",
+    "marketplace",
+    "integration",
+    "server",
+    "plugins"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.2"
+  }
+}
