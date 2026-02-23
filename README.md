@@ -1,5 +1,12 @@
 # mcp-server-marketplace
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/mcp-server-marketplace/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/mcp-server-marketplace/actions)
+![License](https://img.shields.io/github/license/yksanjo/mcp-server-marketplace)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/mcp-server-marketplace)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/mcp-server-marketplace)
+
 ## Detailed Description
 
 mcp-server-marketplace is maintained as an industry-grade software project with production-ready engineering practices.  
